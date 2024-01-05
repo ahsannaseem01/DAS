@@ -16,6 +16,7 @@ func BinarySearch(li []int, tar int) (found bool) {
 			low = mid + 1
 		}
 	}
-	return found
-
+	return
 }
+
+//ihiu
